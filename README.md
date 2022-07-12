@@ -1,11 +1,17 @@
 # SmartObjectRecognition
-This app uses feature detector, descriptor extractor and descriptor matcher available in opencv library.
+Demo video of the android app Smart ObjectRecognition.
 
-With this app you can easily combine the different algorithms and test their performance in object recognition.
+This app uses feature detector, descriptor extractor and descriptor matcher algorithms available in OpenCV 2D Features Framework library.
 
-Download on Play Store : https://play.google.com/store/apps/de...
+With this app you can easily combine the different algorithms and test in real time their performance in object recognition.
 
-Source code : https://github.com/iisy/SmartObjectRe...
+Download : 
+https://play.google.com/store/apps/details?id=com.isy.smartobjectrecognition
+
+With menu Icon: 
+https://play.google.com/store/apps/details?id=net.iisy.dmatcher
+
+Source code : https://github.com/iisy/SmartObjectRecognition
 
 Supported FeatureDetector :
     "FAST" – FastFeatureDetector 
