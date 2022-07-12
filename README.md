@@ -1,5 +1,5 @@
 # SmartObjectRecognition
-Demo video of the android app Smart ObjectRecognition.
+Smart ObjectRecognition is an android app for testing OpenCV Features 2D Framework algorithms.
 
 This app uses feature detector, descriptor extractor and descriptor matcher algorithms available in OpenCV 2D Features Framework library.
 
