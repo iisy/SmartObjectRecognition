@@ -1,4 +1,6 @@
 # SmartObjectRecognition
+This is an eclipse project.
+
 Smart ObjectRecognition is an android app for real time object recognition with OpenCV Features 2D Framework library.
 
 This app uses feature detector, descriptor extractor and descriptor matcher algorithms available in OpenCV 2D Features Framework library.
